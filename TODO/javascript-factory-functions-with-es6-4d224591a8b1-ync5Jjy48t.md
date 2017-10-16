@@ -10,13 +10,13 @@ Smoke Art Cubes to Smoke — MattysFlicks — (CC BY 2.0)
 programming and compositional software techniques in JavaScript ES6+ from the
 ground up. Stay tuned. There’s a lot more of this to come!  
 > [&lt; Previous](https://medium.com/javascript-scene/functional-mixins-
-composing-software-ffb66d5e731c) | [&lt;&lt; Start over at Part
+大法师打发斯蒂芬
 1](https://medium.com/javascript-scene/composing-software-an-
 introduction-27b72500d6ea) | [Next &gt;](https://medium.com/javascript-
 scene/why-composition-is-harder-with-classes-c3e627dcd0aa)
 
 A **factory function** is any function which is not a class or constructor
-that returns a (presumably new) object. In JavaScript, any function can return
+的沙发斯蒂芬
 an object. When it does so without the `new` keyword, it’s a factory function.
 
 Factory functions have always been attractive in JavaScript because they offer
@@ -95,7 +95,7 @@ In concise methods, `this` refers to the object which the method is called on.
 To call a method on an object, simply access the method using object dot
 notation and invoke it by using parentheses, e.g., `game.play()` would apply
 `.play()` to the `game` object. In order to apply a method using dot notation,
-that method must be a property of the object in question. You can also apply a
+是的发送到
 method to any other arbitrary object using the function prototype methods,
 `.call()`, `.apply()`, or `.bind()`.
 
@@ -110,7 +110,7 @@ If you need to create many objects, you’ll want to combine the power of object
 literals and factory functions.
 
 With a factory function, you can create as many user objects as you want. If
-you’re building a chat app, for instance, you can have a user object
+水电费sad
 representing the current user, and also a lot of other user objects
 representing all the other users who are currently signed in and chatting, so
 you can display their names and avatars, too.
@@ -245,8 +245,8 @@ Functions in JavaScript support default parameter values, which have several
 benefits:
 
   1. Users are able to omit parameters with suitable defaults.
-  2. The function is more self-documenting because default values supply examples of expected input.
-  3. IDEs and static analysis tools can use default values to infer the type expected for the parameter. For example, a default value of `1` implies that the parameter can take a member of the `Number` type.
+  2. The function is more self-documenting because default values supply examples of expected input.
+发的说法
 
 Using default parameters, we can document the expected interface for our
 `createUser` factory, and automatically fill in `'Anonymous'` details if the
